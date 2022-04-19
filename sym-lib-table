@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "ATWCane-V0-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/ATWCane-V0-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Arduino")(type "Legacy")(uri "/Users/ldwfalcon/Documents/KiCad/6.0/kicad-lib-arduino-main/Arduino.lib")(options "")(descr ""))
+  (lib (name "2022-04-19_17-41-38")(type "KiCad")(uri "/Users/ldwfalcon/Documents/KiCad/6.0/ul_810F4R0/KiCAD/2022-04-19_17-41-38/2022-04-19_17-41-38.kicad_sym")(options "")(descr ""))
+)
