@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Arduino")(type "KiCad")(uri "/Users/ldwfalcon/Documents/KiCad/6.0/kicad-lib-arduino-main/Arduino.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/Users/ldwfalcon/Documents/KiCad/6.0/ul_810F4R0/KiCAD/2022-04-19_17-41-38/footprints.pretty")(options "")(descr ""))
+)
