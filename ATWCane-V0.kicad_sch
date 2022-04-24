@@ -2210,7 +2210,7 @@
   (symbol (lib_id "Connector:Jack-DC") (at 103.0224 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e89e5b16-554a-4d97-8f95-fc89c9b40d74)
-    (property "Reference" "J?" (id 0) (at 103.0224 101.6 0))
+    (property "Reference" "J2" (id 0) (at 103.0224 101.6 0))
     (property "Value" "Jack-DC" (id 1) (at 103.0224 104.14 0))
     (property "Footprint" "ATWCane-sensor-stuff:Board outline V1" (id 2) (at 104.2924 111.506 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2265,7 +2265,7 @@
       (reference "J1") (unit 1) (value "Jack-DC") (footprint "Connector_BarrelJack:BarrelJack_Horizontal")
     )
     (path "/e89e5b16-554a-4d97-8f95-fc89c9b40d74"
-      (reference "J?") (unit 1) (value "Jack-DC") (footprint "ATWCane-sensor-stuff:Board outline V1")
+      (reference "J2") (unit 1) (value "Jack-DC") (footprint "ATWCane-sensor-stuff:Board outline V1")
     )
     (path "/5297ab3c-650b-4a41-a6f7-bd98c7dda8cb"
       (reference "Q1") (unit 1) (value "BD140") (footprint "ATWCane-sensor-stuff:TO-220-3_VerticalHEAT")
