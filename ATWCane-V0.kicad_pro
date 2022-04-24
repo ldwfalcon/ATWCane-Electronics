@@ -390,8 +390,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "ATWCane-V0.step",
-      "vrml": ""
+      "step": "../../../../Downloads/ATWCane-V01234.STEP",
+      "vrml": "../../../../Downloads/ATWCane-V0.wrl"
     },
     "page_layout_descr_file": ""
   },
